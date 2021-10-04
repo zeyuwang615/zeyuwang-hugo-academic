@@ -16,7 +16,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +29,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the AAAI Conference on Artificial Intelligence, 2022*
-publication_short: In *AAAI 2022*
+publication: In *Proceedings of the AAAI Conference on Artificial Intelligence, 2020*
+publication_short: In *AAAI 2020*
 
 abstract: []
 
@@ -40,7 +40,7 @@ summary: []
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -78,12 +78,16 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+[comment]: <> ({{% callout note %}})
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+[comment]: <> (Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.)
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+[comment]: <> ({{% /callout %}})
+
+[comment]: <> ({{% callout note %}})
+
+[comment]: <> (Create your slides in Markdown - click the *Slides* button to check out the example.)
+
+[comment]: <> ({{% /callout %}})
+
+[comment]: <> (Supplementary notes can be added here, including [code, math, and images]&#40;https://wowchemy.com/docs/writing-markdown-latex/&#41;.)
