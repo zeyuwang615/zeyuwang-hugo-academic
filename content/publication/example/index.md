@@ -20,7 +20,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,15 +29,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the AAAI Conference on Artificial Intelligence, 2020*
-publication_short: In *AAAI 2020*
+publication: []
+#In *Proceedings of the AAAI Conference on Artificial Intelligence, 2020*
+publication_short: []
+#In *AAAI 2020*
 
 abstract: []
 
 # Summary. An optional shortened abstract.
 summary: []
 
-tags: []
+tags: AAAI 2020
 
 # Display this page in the Featured widget?
 featured: False
@@ -75,5 +77,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
