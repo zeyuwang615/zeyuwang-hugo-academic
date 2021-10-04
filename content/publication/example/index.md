@@ -29,10 +29,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: []
-#In *Proceedings of the AAAI Conference on Artificial Intelligence, 2020*
-publication_short: []
-#In *AAAI 2020*
+publication: In *Proceedings of the AAAI Conference on Artificial Intelligence, 2020*
+publication_short: In *AAAI 2020*
 
 abstract: []
 
