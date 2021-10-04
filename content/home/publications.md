@@ -3,16 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-# Activate this widget? true/false
-active: ture
-
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
+title: Recent Publications
 subtitle: ''
 
 content:
