@@ -22,15 +22,15 @@ interests: []
 # Education to show in About widget
 education:
 courses:
-- course: PhD in Artificial Intelligence
-  institution: Stanford University
-  year: 2012
-- course: MEng in Artificial Intelligence
-  institution: Massachusetts Institute of Technology
-  year: 2009
-- course: BSc in Artificial Intelligence
-  institution: Massachusetts Institute of Technology
-  year: 2008
+- course: Ph.D. in Computer Science, 2021-Now
+  institution: University of California, Santa Cruz
+  year: ""
+- course: M.E. in Computer Science, 2018-2021
+  institution: Institute of Computing Technology, Chinese Academy of Science
+  year: ""
+- course: B.E. in Automation, 2014-2018
+  institution: Central South University
+  year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
