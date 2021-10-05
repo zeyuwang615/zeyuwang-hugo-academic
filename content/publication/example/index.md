@@ -9,15 +9,14 @@ authors:
 - Zeyu Wang
 - Zuoxin Li
 - Ye Yuan
-- Gang Yu
-- (AAAI 2020)
+- Gang Yu (AAAI 2020)
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: ""
+date: "2020-02"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -76,5 +75,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
