@@ -32,7 +32,10 @@ content:
     author: ''
     exclude_featured: true
 design:
-  view: 2
+  view: 1
 ---
 
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
 

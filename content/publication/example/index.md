@@ -10,13 +10,14 @@ authors:
 - Zuoxin Li
 - Ye Yuan
 - Gang Yu
+- (AAAI 2020)
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-02"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,10 +38,10 @@ abstract: []
 # Summary. An optional shortened abstract.
 summary: []
 
-tags: AAAI 2020
+tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
@@ -75,5 +76,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: example
 ---
