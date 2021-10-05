@@ -16,7 +16,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: ""
+date: "2020-02"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -40,7 +40,7 @@ summary: []
 tags: AAAI 2020
 
 # Display this page in the Featured widget?
-featured: False
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
